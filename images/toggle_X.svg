@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1" data-name="그룹 1" transform="translate(-44 -67)">
+    <path id="패스_1" data-name="패스 1" class="cls-1" d="M0,0H24V24H0Z" transform="translate(44 67)"/>
+    <path id="close" d="M11.581,26.35,10.35,25.119l6.769-6.769L10.35,11.581l1.231-1.231,6.769,6.769,6.769-6.769,1.231,1.231L19.581,18.35l6.769,6.769L25.119,26.35,18.35,19.581Z" transform="translate(37.65 60.65)"/>
+  </g>
+</svg>

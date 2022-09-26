@@ -1,0 +1,11 @@
+<svg id="menu_white_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="패스_1" data-name="패스 1" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="패스_2" data-name="패스 2" d="M3,18H21V16H3Zm0-5H21V11H3ZM3,6V8H21V6Z"/>
+</svg>
