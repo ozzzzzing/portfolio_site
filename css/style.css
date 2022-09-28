@@ -742,6 +742,7 @@ footer p{
 .tab_img img{
     width: 380px;
     height: 300px;
+    scale:1;
     overflow: hidden;
 }
 /* 탭 메뉴 버튼  */
