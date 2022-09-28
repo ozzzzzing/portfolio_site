@@ -48,7 +48,7 @@ body{
 }
 #menu ul{
     display: flex;
-    flex-direction: column;
+    flex-direction: column !important;
     display: none;
 }
 .menu_list a{
